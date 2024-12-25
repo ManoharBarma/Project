@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ManoharBarma/Project.git/static/css/main.8cebd059.css",
+    "main.js": "/ManoharBarma/Project.git/static/js/main.7bbcce17.js",
+    "static/media/restaurant.mp4": "/ManoharBarma/Project.git/static/media/restaurant.41176b9da3610cce4bd2.mp4",
+    "static/media/background-1.jpg": "/ManoharBarma/Project.git/static/media/background-1.2979960b8c5c75c4a9a3.jpg",
+    "static/media/biryani.png": "/ManoharBarma/Project.git/static/media/biryani.78d9d91664b10342436f.png",
+    "static/media/page3.jpg": "/ManoharBarma/Project.git/static/media/page3.2abb5e029cc2d63f22fc.jpg",
+    "static/media/page7.jpg": "/ManoharBarma/Project.git/static/media/page7.54090aa0096383b5a6b9.jpg",
+    "static/media/page12.jpg": "/ManoharBarma/Project.git/static/media/page12.4cca2b71fe94dcabef2c.jpg",
+    "static/media/page8.jpg": "/ManoharBarma/Project.git/static/media/page8.463d92402c3163194126.jpg",
+    "static/media/page4.jpg": "/ManoharBarma/Project.git/static/media/page4.dd88d4c771e3dd0e5618.jpg",
+    "static/media/page9.jpg": "/ManoharBarma/Project.git/static/media/page9.d576442a666510956dbf.jpg",
+    "static/media/page18.jpg": "/ManoharBarma/Project.git/static/media/page18.db9eace1161eae056c59.jpg",
+    "static/media/page13.jpg": "/ManoharBarma/Project.git/static/media/page13.e82e7404cb9c9d545b02.jpg",
+    "static/media/page5.jpg": "/ManoharBarma/Project.git/static/media/page5.d12c2024a147f8460c3d.jpg",
+    "static/media/page2.jpg": "/ManoharBarma/Project.git/static/media/page2.4273f5ee747f510d4005.jpg",
+    "static/media/page6.jpg": "/ManoharBarma/Project.git/static/media/page6.6706a26c0209cfd7ff10.jpg",
+    "static/media/page10.jpg": "/ManoharBarma/Project.git/static/media/page10.1acd04de1a434a231827.jpg",
+    "static/media/page11.jpg": "/ManoharBarma/Project.git/static/media/page11.f4c5b8c52e2b8dcf2454.jpg",
+    "static/media/page17.jpg": "/ManoharBarma/Project.git/static/media/page17.ed8c5c7b4ada98762012.jpg",
+    "static/media/page14.jpg": "/ManoharBarma/Project.git/static/media/page14.671ece1c0a4ab7c00a18.jpg",
+    "static/media/page16.jpg": "/ManoharBarma/Project.git/static/media/page16.66825b9c11671af5632c.jpg",
+    "static/media/page15.jpg": "/ManoharBarma/Project.git/static/media/page15.9190032f4bfe52093008.jpg",
+    "index.html": "/ManoharBarma/Project.git/index.html",
+    "main.8cebd059.css.map": "/ManoharBarma/Project.git/static/css/main.8cebd059.css.map",
+    "main.7bbcce17.js.map": "/ManoharBarma/Project.git/static/js/main.7bbcce17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cebd059.css",
+    "static/js/main.7bbcce17.js"
+  ]
+}
